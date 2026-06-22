@@ -1,4 +1,4 @@
-# Samreena-Manzoor-Khan
+
 Dark Matrix Tic-Tac-Toe Game 
 
 This is a simple Tic Tac Toe game I built using Python and Tkinter(for user interface)

@@ -51,7 +51,8 @@ It’s a small beginner-friendly game, but I tried to make it look more stylish 
 
 #draw
 
-![Final Board](https://github.com/user-attachments/assets/e2177358-e1de-46dd-b805-9e9e8fcb1cb0)
+![Final Board](https://github.com/user-attachments/assets/91f8bd1c-e781-4dc3-9cb9-3030848adc93)
+
 
 
 
